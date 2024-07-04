@@ -1,0 +1,170 @@
+[
+    {
+        "BrandId": 1,
+        "BrandName": "iPhone",
+        "Products": [
+            {
+                "Id": "P1",
+                "ProductName": "iPhone Case",
+                "GraphicName": "iphone_case.jpg",
+                "CostPrice": 20.00,
+                "MSRP": 30.00,
+                "QtyOnHand": 200,
+                "QtyOnBackOrder": 10,
+                "Description": "A stylish and durable case for your iPhone, offering protection and a sleek look."
+            },
+            {
+                "Id": "P2",
+                "ProductName": "iPhone Charger",
+                "GraphicName": "iphone_charger.jpg",
+                "CostPrice": 15.00,
+                "MSRP": 25.00,
+                "QtyOnHand": 150,
+                "QtyOnBackOrder": 20,
+                "Description": "A fast-charging and reliable charger for your iPhone, ensuring your device is always powered up."
+            },
+            {
+                "Id": "P3",
+                "ProductName": "iPhone Screen Protector",
+                "GraphicName": "iphone_screen_protector.jpg",
+                "CostPrice": 10.00,
+                "MSRP": 20.00,
+                "QtyOnHand": 300,
+                "QtyOnBackOrder": 0,
+                "Description": "A high-quality screen protector for your iPhone, preventing scratches and cracks."
+            },
+            {
+                "Id": "P4",
+                "ProductName": "iPhone Earbuds",
+                "GraphicName": "iphone_earbuds.jpg",
+                "CostPrice": 30.00,
+                "MSRP": 50.00,
+                "QtyOnHand": 100,
+                "QtyOnBackOrder": 15,
+                "Description": "Premium earbuds for your iPhone, delivering excellent sound quality and comfort."
+            },
+            {
+                "Id": "P5",
+                "ProductName": "iPhone Wireless Charger",
+                "GraphicName": "iphone_wireless_charger.jpg",
+                "CostPrice": 25.00,
+                "MSRP": 40.00,
+                "QtyOnHand": 120,
+                "QtyOnBackOrder": 25,
+                "Description": "A sleek and efficient wireless charger for your iPhone, providing convenient charging without cables."
+            }
+        ]
+    },
+    {
+        "BrandId": 2,
+        "BrandName": "Google Pixel",
+        "Products": [
+            {
+                "Id": "P6",
+                "ProductName": "Google Pixel Case",
+                "GraphicName": "google_pixel_case.jpg",
+                "CostPrice": 18.00,
+                "MSRP": 28.00,
+                "QtyOnHand": 210,
+                "QtyOnBackOrder": 15,
+                "Description": "A custom-fit case for your Google Pixel, offering protection and a modern design."
+            },
+            {
+                "Id": "P7",
+                "ProductName": "Google Pixel Charger",
+                "GraphicName": "google_pixel_charger.jpg",
+                "CostPrice": 14.00,
+                "MSRP": 24.00,
+                "QtyOnHand": 160,
+                "QtyOnBackOrder": 18,
+                "Description": "An efficient and fast charger for your Google Pixel, ensuring your device stays powered."
+            },
+            {
+                "Id": "P8",
+                "ProductName": "Google Pixel Screen Protector",
+                "GraphicName": "google_pixel_screen_protector.jpg",
+                "CostPrice": 9.00,
+                "MSRP": 19.00,
+                "QtyOnHand": 290,
+                "QtyOnBackOrder": 5,
+                "Description": "A durable screen protector for your Google Pixel, protecting against scratches and impact."
+            },
+            {
+                "Id": "P9",
+                "ProductName": "Google Pixel Earbuds",
+                "GraphicName": "google_pixel_earbuds.jpg",
+                "CostPrice": 28.00,
+                "MSRP": 45.00,
+                "QtyOnHand": 110,
+                "QtyOnBackOrder": 12,
+                "Description": "High-quality earbuds for your Google Pixel, delivering clear sound and comfortable wear."
+            },
+            {
+                "Id": "P10",
+                "ProductName": "Google Pixel Wireless Charger",
+                "GraphicName": "google_pixel_wireless_charger.jpg",
+                "CostPrice": 23.00,
+                "MSRP": 38.00,
+                "QtyOnHand": 130,
+                "QtyOnBackOrder": 22,
+                "Description": "A modern wireless charger for your Google Pixel, offering fast and convenient charging."
+            }
+        ]
+    },
+    {
+        "BrandId": 3,
+        "BrandName": "Samsung Galaxy",
+        "Products": [
+            {
+                "Id": "P11",
+                "ProductName": "Samsung Galaxy Case",
+                "GraphicName": "samsung_galaxy_case.jpg",
+                "CostPrice": 22.00,
+                "MSRP": 32.00,
+                "QtyOnHand": 190,
+                "QtyOnBackOrder": 14,
+                "Description": "A robust and stylish case for your Samsung Galaxy, providing excellent protection."
+            },
+            {
+                "Id": "P12",
+                "ProductName": "Samsung Galaxy Charger",
+                "GraphicName": "samsung_galaxy_charger.jpg",
+                "CostPrice": 16.00,
+                "MSRP": 26.00,
+                "QtyOnHand": 140,
+                "QtyOnBackOrder": 16,
+                "Description": "A fast and reliable charger for your Samsung Galaxy, ensuring your device stays charged."
+            },
+            {
+                "Id": "P13",
+                "ProductName": "Samsung Galaxy Screen Protector",
+                "GraphicName": "samsung_galaxy_screen_protector.jpg",
+                "CostPrice": 12.00,
+                "MSRP": 22.00,
+                "QtyOnHand": 280,
+                "QtyOnBackOrder": 6,
+                "Description": "A tough screen protector for your Samsung Galaxy, guarding against scratches and damage."
+            },
+            {
+                "Id": "P14",
+                "ProductName": "Samsung Galaxy Earbuds",
+                "GraphicName": "samsung_galaxy_earbuds.jpg",
+                "CostPrice": 32.00,
+                "MSRP": 52.00,
+                "QtyOnHand": 90,
+                "QtyOnBackOrder": 20,
+                "Description": "Superior earbuds for your Samsung Galaxy, offering high-fidelity sound and comfort."
+            },
+            {
+                "Id": "P15",
+                "ProductName": "Samsung Galaxy Wireless Charger",
+                "GraphicName": "samsung_galaxy_wireless_charger.jpg",
+                "CostPrice": 27.00,
+                "MSRP": 42.00,
+                "QtyOnHand": 110,
+                "QtyOnBackOrder": 18,
+                "Description": "A wireless charger for your Samsung Galaxy, providing hassle-free charging with speed and efficiency."
+            }
+        ]
+    }
+]
